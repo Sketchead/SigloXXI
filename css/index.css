@@ -1,0 +1,15 @@
+.header{
+    background-color: #212223;
+}
+.footer{
+    background-color: #212223;
+    color: white;
+}
+.img-header{
+    height: 80px;
+    width: 80px;
+}
+.list-inline{
+    text-align: center;
+    color: white
+}
