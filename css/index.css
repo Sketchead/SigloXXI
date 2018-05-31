@@ -2,14 +2,35 @@
     background-color: #212223;
 }
 .footer{
+    height: 10em;
     background-color: #212223;
     color: white;
 }
 .img-header{
+    position: relative;
+    top: 10px;
     height: 80px;
     width: 80px;
 }
 .list-inline{
     text-align: center;
     color: white
+}
+
+.img-footer{
+    position: relative;
+    left: 41em;
+    top: -10px;
+    height: 3em;
+    width: 3em;
+}
+
+#carouselExampleIndicators{
+    text-align: center;
+    height: 20em;
+    width: 20em;
+}
+.footer-info{
+    position: relative;
+    top: 1em;
 }
